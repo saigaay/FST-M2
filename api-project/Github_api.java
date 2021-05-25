@@ -18,7 +18,7 @@ public class Github_api {
 	@BeforeClass
 	public void setUp() {
 	    requestSpec = new RequestSpecBuilder().setContentType(ContentType.JSON)
-	    		.addHeader("Authorization", "token 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")
+	    		.addHeader("Authorization", "token XXXXXXX")
 	    		.setBaseUri("https://api.github.com")
 	        .build();
 	}
@@ -27,11 +27,7 @@ public class Github_api {
 
 		String ssh_req = "{"
 				+"\"title\": \"TestAPIKey\"," 
-				+"\"key\": \"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKK2CcwgrENitVW+CUgv9N4ECpDK/z6i"
-				+ "hD3X8nQi6PmOzNraYlCTZRngwJ8oB4c2Dv2H7EiVnq2rOOC5YgeXFxiyF18MQSez2uJp3vceY/dqSY"
-				+ "TV7+NJRJJ7+S/rmH2tQthVHrYZorIcnt7CTm3rtFeX1HPiWQwDAl9I9zBDBuU9zIJNzeSctWVNp+tieFS"
-				+ "ROjOmduuFfTX9pXM/0jlFYUnE0cKI9tFVXG6aXowbwjYn5BgiCLfKJguAnDkr0qOIFDHv+50/9Sq4gPv3mq7"
-				+ "5yVYr7N0/YKwo0PFVe4RZFKzmy5EaCEBrOiiVhTyQ3wqjvM9Mh7w9oSW0YzJH/kRoBD\""
+				+"\"key\": \"XXXXXXXXXXXXX\""
 				+"}";
 		Response response=given().spec(requestSpec).body(ssh_req).when().post("/user/keys");
 		id=response.then().extract().path("id");
