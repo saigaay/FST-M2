@@ -1,0 +1,2618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="324" it="0" lt="323" ct="93" ts="1622435395673" s="true" lb="-4" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:29:52 GMT
+Etag: &quot;5f46cfe7-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:03 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 137
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#xc;�����|��L��M�W</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="261" it="0" lt="260" ct="28" ts="1622435395838" s="true" lb="-7" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:29:52 GMT
+Etag: &quot;5f4e9b04-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:32 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 137
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#xc;�����|��L��M�W</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="346" it="0" lt="346" ct="96" ts="1622435395836" s="true" lb="-6" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:52 GMT
+Etag: &quot;5f4aa526-5&quot;
+Last-Modified: Sat, 29 Aug 2020 18:57:42 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 f36cc3262cf9894d2ccc23f5af36a811.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: ZEn-fZ2kIRT5aV4-GJZ4E5juycCrCLRq7TfQtC1e1Di4k86ykkbxhw==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="348" it="0" lt="348" ct="94" ts="1622435395838" s="true" lb="-5" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:52 GMT
+Etag: &quot;5fda4057-5&quot;
+Last-Modified: Wed, 16 Dec 2020 17:13:59 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 fdd2a75b90d9241c0fabffe73124523c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: LrNfiiBso7GVzr8ywGsfLe_OzM1DKilc0bnMBEKoGH9PyiNjIQCw8A==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="272" it="0" lt="271" ct="14" ts="1622435395941" s="true" lb="-9" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:52 GMT
+Etag: &quot;5f4aa526-5&quot;
+Last-Modified: Sat, 29 Aug 2020 18:57:42 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 20eddc312f5fafe3d85effa2fe22f9e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: ehukuA9tQpkwBBd4q35eZbLBU3uC463r46y6k2_AV5bDw9U7AdweIg==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="254" it="0" lt="254" ct="24" ts="1622435397327" s="true" lb="-12" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:29:54 GMT
+Etag: &quot;5f4e9b04-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:32 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="258" it="0" lt="258" ct="28" ts="1622435397323" s="true" lb="-11" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:29:54 GMT
+Etag: &quot;5f4e9b04-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:32 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="261" it="0" lt="261" ct="31" ts="1622435397320" s="true" lb="-10" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:29:54 GMT
+Etag: &quot;5f46cfe7-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:03 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="287" it="0" lt="287" ct="12" ts="1622435397653" s="true" lb="-13" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:54 GMT
+Etag: &quot;5f4aa526-5&quot;
+Last-Modified: Sat, 29 Aug 2020 18:57:42 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 ead256cd567b3d0f8e32db9114a9d1bb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: YvO9tHorA37om3PNPA1iJTvhLrfGhP6ERRvgAhTnuOOwXGymZWg9jw==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 125
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x5;�6	�&#x14;窌�D�-���</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="260" it="0" lt="260" ct="13" ts="1622435397905" s="true" lb="-14" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:54 GMT
+Etag: &quot;5f4aa526-5&quot;
+Last-Modified: Sat, 29 Aug 2020 18:57:42 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 bc105c5214d9f6f5c34c7ff2f4f18b4e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: XGy4SKPjmKB1JArmZ7Do4xqzg6NISq-hSQNkhwxQveu0xMTbWN8RdQ==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 125
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x5;�6	�&#x14;窌�D�-���</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="282" it="0" lt="282" ct="29" ts="1622435398862" s="true" lb="-15" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:55 GMT
+Etag: &quot;5fda4057-5&quot;
+Last-Modified: Wed, 16 Dec 2020 17:13:59 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 5a60dd65a88243aae82f19bc8e794742.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: cuU545iJ4lv8GL-gl6HTOUnZREo6A3fv8u-bu8XiBDYSrU8o6zD8eQ==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 121
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x4;(&#x4;]�&#x2;p���\ً~1�</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="260" it="0" lt="259" ct="12" ts="1622435400863" s="true" lb="-16" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:57 GMT
+Etag: &quot;5fda4057-5&quot;
+Last-Modified: Wed, 16 Dec 2020 17:13:59 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 20eddc312f5fafe3d85effa2fe22f9e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: tc2S8KK2nMr5rzGbfQgc3V9GgRHC-TAmx-Ym0IdlTqnxjMTXF4Az3g==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 123
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xc;&amp;D�.X�U��?�
+m�I</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="428" it="0" lt="428" ct="182" ts="1622435401262" s="true" lb="-17" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:29:58 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 133
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0R0P0N0L0J0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x11;&#x0;�ݍ����I&#x5;&#x0;&#x0;&#x0;&#x0;��&#x17;</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="6102" it="0" lt="0" ct="856" ts="1622435395849" s="false" lb="-8" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: aAIBO5peHmgkVS3bM9DXFw==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="5987" it="0" lt="0" ct="744" ts="1622435406984" s="false" lb="-18" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: enr7ttYi+LuOE3wiDmkwmA==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="66" ts="1622435423816" s="true" lb="-20" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="372" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Server: nginx/1.16.1
+Date: Mon, 31 May 2021 04:30:20 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: close
+Location: https://www.training-support.net/
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: www.training-support.net
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx/1.16.1&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://www.training-support.net/</redirectLocation>
+  <java.net.URL>http://www.training-support.net/</java.net.URL>
+</httpSample>
+<httpSample t="367" it="0" lt="367" ct="97" ts="1622435423980" s="false" lb="-21" rc="400" rm="Bad Request" tn="" dt="text" de="" by="229" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 31 May 2021 04:30:20 GMT
+Date: Mon, 31 May 2021 04:30:20 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: r3.o.lencr.org
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 135
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;H�ɠ�+�-O��h��g�5���&#x4;&#x14;&#x14;.�&#x17;�XVˮP	@�&#x1f;���&#x14;��&#x2;&#x12;&#x4;*�]^a!�V@���B&#x1a;!�&#x16;</queryString>
+  <java.net.URL>http://r3.o.lencr.org/</java.net.URL>
+</httpSample>
+<httpSample t="249" it="0" lt="248" ct="14" ts="1622435424738" s="true" lb="-23" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:21 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 131
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0R0P0N0L0J0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x11;&#x0;��B&#x4;g|o�&#x5;&#x0;&#x0;&#x0;&#x0;���</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="252" it="0" lt="251" ct="13" ts="1622435424803" s="true" lb="-24" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:21 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 131
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0R0P0N0L0J0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x11;&#x0;��B&#x4;g|o�&#x5;&#x0;&#x0;&#x0;&#x0;���</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="483" it="0" lt="483" ct="14" ts="1622435424588" s="true" lb="-22" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:21 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="259" it="0" lt="259" ct="17" ts="1622435425240" s="true" lb="-27" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:21 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#x17;0�}|J�r&#x3;&#x0;&#x0;&#x0;&#x0;�&#xf;A</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="489" it="0" lt="488" ct="17" ts="1622435425240" s="true" lb="-28" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:22 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#x17;0�}|J�r&#x3;&#x0;&#x0;&#x0;&#x0;�&#xf;A</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="489" it="0" lt="488" ct="17" ts="1622435425240" s="true" lb="-26" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:22 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#x17;0�}|J�r&#x3;&#x0;&#x0;&#x0;&#x0;�&#xf;A</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="1308" it="0" lt="1308" ct="13" ts="1622435425232" s="true" lb="-25" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:23 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#x17;0�}|J�r&#x3;&#x0;&#x0;&#x0;&#x0;�&#xf;A</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="253" it="0" lt="253" ct="13" ts="1622435426384" s="true" lb="-29" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:30:23 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;G�D&#x3;E͙P&#x5;&#x0;&#x0;&#x0;&#x0;��J</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="5982" it="0" lt="0" ct="738" ts="1622435423000" s="false" lb="-19" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: +iD/v1tE/ypJjTtbkTsd0g==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+
+<httpSample t="6018" it="0" lt="0" ct="776" ts="1622435449020" s="false" lb="-30" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: VltpL45Bc4BBhFb6T3F3Hg==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+
+<httpSample t="6009" it="0" lt="0" ct="770" ts="1622435495066" s="false" lb="training support-34" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: nnYWAssNlpw3sfhedZyNtg==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+
+<httpSample t="5997" it="0" lt="0" ct="761" ts="1622435745168" s="false" lb="training support-35" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: TGm9EEmiJE9ZfRR1PiBk6w==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+
+
+
+<httpSample t="326" it="0" lt="326" ct="73" ts="1622436150910" s="false" lb="-36" rc="400" rm="Bad Request" tn="" dt="text" de="" by="229" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 31 May 2021 04:42:27 GMT
+Date: Mon, 31 May 2021 04:42:27 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: r3.o.lencr.org
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 135
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;H�ɠ�+�-O��h��g�5���&#x4;&#x14;&#x14;.�&#x17;�XVˮP	@�&#x1f;���&#x14;��&#x2;&#x12;&#x4;*�]^a!�V@���B&#x1a;!�&#x16;</queryString>
+  <java.net.URL>http://r3.o.lencr.org/</java.net.URL>
+</httpSample>
+<httpSample t="559" it="0" lt="558" ct="77" ts="1622436151585" s="true" lb="-37" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:42:28 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="1405" it="0" lt="1404" ct="13" ts="1622436152405" s="true" lb="-38" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:42:30 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;G�D&#x3;E͙P&#x5;&#x0;&#x0;&#x0;&#x0;��J</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="393" it="0" lt="393" ct="82" ts="1622436158703" s="true" lb="-39" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:42:35 GMT
+Etag: &quot;5f46cfe2-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:10:58 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 2990a2176f65b9b6f86f8ec00050fa00.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: 2RdolQq7jOj557l6JyOxsSmPNRpKe4aryXqo03nVc__I4_Iqyi4KJA==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="278" it="0" lt="278" ct="20" ts="1622436158962" s="true" lb="-40" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:42:35 GMT
+Etag: &quot;5f46cfbf-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:10:23 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 643ea663c12dbff7be00a2919f789571.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: xM9Ufsex3Gl7q9Z81t8427XHNh-tkxaBTOi8MTuIzKrDtsVdBKHO2A==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+
+
+<httpSample t="110" it="0" lt="109" ct="26" ts="1622436746978" s="true" lb="-44" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:52:23 GMT
+Etag: &quot;5f46cfe9-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:05 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x5;&#x1b;sq�lv.L&#x1c;�&#x14;��&#x7f;w</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="271" it="0" lt="271" ct="42" ts="1622436748194" s="true" lb="-47" rc="200" rm="OK" tn="" dt="text" de="" by="495" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:24 GMT
+Etag: &quot;5f46cfe2-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:10:58 GMT
+Server: ECS (oxr/836D)
+X-Cache: Miss from cloudfront
+Via: 1.1 6b3bacffbdc84b46f975defba099bd74.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: EfP5AgC8Cu4rwXZtW6kmezWR5tJzt4EsdufOIfI5_zHbUhQeE3Fsng==
+Age: 449
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="293" it="0" lt="293" ct="64" ts="1622436748172" s="true" lb="-46" rc="200" rm="OK" tn="" dt="text" de="" by="495" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:24 GMT
+Etag: &quot;5f46cfe2-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:10:58 GMT
+Server: ECS (oxr/830C)
+X-Cache: Miss from cloudfront
+Via: 1.1 63caf32a099e15cdcff771322535c2d2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: 9UPwvCRX6Wkj2wq8zjK47Q3EwfbaQGVk0CPcZVxKZKEB9oG2q3Wotg==
+Age: 589
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="150" it="0" lt="150" ct="23" ts="1622436748399" s="true" lb="-49" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:52:25 GMT
+Etag: &quot;5f46cfe4-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:00 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 137
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#xc;�����|��L��M�W</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="23" ts="1622436748399" s="true" lb="-48" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:52:25 GMT
+Etag: &quot;5f46cfe4-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:00 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 137
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#xc;�����|��L��M�W</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="233" it="0" lt="232" ct="13" ts="1622436748430" s="true" lb="-50" rc="200" rm="OK" tn="" dt="text" de="" by="495" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:25 GMT
+Etag: &quot;5f46cfe9-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:05 GMT
+Server: ECS (oxr/8370)
+X-Cache: Miss from cloudfront
+Via: 1.1 b99f8549b35755a7a7577e7612fbe079.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: kxyvjkEeiBfkQ0qWF17Xl5mXLuyM4FyNwQuhbGWUh6A11g4Maaf4FA==
+Age: 450
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="24" ts="1622436749155" s="true" lb="-52" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:52:25 GMT
+Etag: &quot;5f4e9b0a-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:38 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="151" it="0" lt="150" ct="24" ts="1622436749148" s="true" lb="-51" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:52:25 GMT
+Etag: &quot;5f46cfe4-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:00 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="150" it="0" lt="149" ct="22" ts="1622436749156" s="true" lb="-53" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:52:25 GMT
+Etag: &quot;5f4e9b00-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:28 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="351" it="0" lt="351" ct="12" ts="1622436749996" s="true" lb="-54" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:26 GMT
+Etag: &quot;5f46cfe4-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:00 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 89dc287f5e32714b82f47c0b401f72af.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: _tqhPPT2C00JGETS-3zl89gX4SQOPuWveoG7yy8ohgaewl37v0kMpQ==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 125
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x5;�6	�&#x14;窌�D�-���</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="354" it="0" lt="354" ct="12" ts="1622436750266" s="true" lb="-55" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:27 GMT
+Etag: &quot;5f46cfe4-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:00 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 7d2d5778b1394e6cac677a18d71b6170.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: 4jlEdj2pKGawdmOsXRHeUabHX3Q6OiJzDhiBs1aGftklpHLC46TVew==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 125
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x5;�6	�&#x14;窌�D�-���</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="275" it="0" lt="274" ct="13" ts="1622436751279" s="true" lb="-56" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:28 GMT
+Etag: &quot;5f4aa526-5&quot;
+Last-Modified: Sat, 29 Aug 2020 18:57:42 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 265b8ee5e2c8d8e734bd5850d5be64a6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: nhUrd2APP5VErxLvWHSFjFFspsjk78HDnCEEZG7n6tMJpYvmaBZGVQ==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 121
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x4;(&#x4;]�&#x2;p���\ً~1�</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="90" ts="1622436751614" s="true" lb="-57" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:28 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 133
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0R0P0N0L0J0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x11;&#x0;�ݍ����I&#x5;&#x0;&#x0;&#x0;&#x0;��&#x17;</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="6021" it="0" lt="0" ct="792" ts="1622436747263" s="false" lb="-45" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: HTWVGWTy3RHtkeEtol4KZQ==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="356" it="0" lt="356" ct="13" ts="1622436753406" s="true" lb="-58" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:52:30 GMT
+Etag: &quot;5f4e9b00-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:28 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 f36cc3262cf9894d2ccc23f5af36a811.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: UGYaPnSquEYMM5q6wEYx78EdgRuWbgtpKoS4rt0dDk4AA2rVvEhWwg==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 123
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xc;&amp;D�.X�U��?�
+m�I</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+
+<httpSample t="93" it="0" lt="92" ct="24" ts="1622436825705" s="true" lb="-63" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:53:42 GMT
+Etag: &quot;5f46cfe9-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:05 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 137
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#xc;�����|��L��M�W</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="24" ts="1622436825916" s="true" lb="-64" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:53:42 GMT
+Etag: &quot;5f46cfe9-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:05 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 137
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#xc;�����|��L��M�W</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="360" it="0" lt="360" ct="144" ts="1622436826115" s="true" lb="-65" rc="200" rm="OK" tn="" dt="text" de="" by="495" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:42 GMT
+Etag: &quot;5f4e9af7-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:19 GMT
+Server: ECS (oxr/8327)
+X-Cache: Miss from cloudfront
+Via: 1.1 4e0f37ca2b124654dbfc0554ea1020a8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: sZj8FFhENxmclwoI9WlYMJOmImOYtHfdedo3i5DnCju_nmD7X2fVkg==
+Age: 528
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="342" it="0" lt="342" ct="121" ts="1622436826138" s="true" lb="-66" rc="200" rm="OK" tn="" dt="text" de="" by="495" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:42 GMT
+Etag: &quot;5fac0ccd-5&quot;
+Last-Modified: Wed, 11 Nov 2020 16:09:49 GMT
+Server: ECS (oxr/8322)
+X-Cache: Miss from cloudfront
+Via: 1.1 f36cc3262cf9894d2ccc23f5af36a811.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: pZ0QhFAhx8j6wPfWPyKRSYvA1D4w2SOc5tZzE-lu6MextLyn8gZg6A==
+Age: 527
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="244" it="0" lt="244" ct="14" ts="1622436826394" s="true" lb="-67" rc="200" rm="OK" tn="" dt="text" de="" by="495" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:43 GMT
+Etag: &quot;5f4aa52a-5&quot;
+Last-Modified: Sat, 29 Aug 2020 18:57:46 GMT
+Server: ECS (sab/56CF)
+X-Cache: Miss from cloudfront
+Via: 1.1 f36cc3262cf9894d2ccc23f5af36a811.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: 9gmqDyERD5T2O_zyRThd90w4BoHGCH7PsHLRMXw6yPg1-NBXzEkiWg==
+Age: 524
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 115
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xf;�˜ꆶ&#x12;&#x4;6/�&#x12;1{&#x8;</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="53" ct="24" ts="1622436827200" s="true" lb="-70" rc="200" rm="OK" tn="" dt="text" de="" by="313" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 1430
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:53:43 GMT
+Etag: &quot;5f46cfe7-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:03 GMT
+Server: ECS (tir/CDCA)
+X-Cache: HIT
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="78" ct="21" ts="1622436827198" s="true" lb="-69" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:53:43 GMT
+Etag: &quot;5f46cfe9-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:05 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="91" it="0" lt="91" ct="26" ts="1622436827194" s="true" lb="-68" rc="200" rm="OK" tn="" dt="text" de="" by="279" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Content-Type: application/ocsp-response
+Date: Mon, 31 May 2021 04:53:43 GMT
+Etag: &quot;5f4e9b0a-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:38 GMT
+Server: nginx
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 126
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x10;_�z�&#x8;��&apos;�5&#x383;&#xb;C����&#xd;&#x4;&#x14;&#xf;�a&#x1c;�1a�/(�F8�,����&#x2;&#x10;&#x4;2��ꁐR&#x3;�I�ă&quot;U</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<httpSample t="389" it="0" lt="388" ct="12" ts="1622436828019" s="true" lb="-71" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:44 GMT
+Etag: &quot;5f46cfea-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:06 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 c2b35656376607c7956f8ac31dcfaaa7.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: Xx5MthyofYxakM-7IA8HUvHaQVBZOw9brRAM2iIo58GlOTRxXVrEYg==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 125
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x5;�6	�&#x14;窌�D�-���</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="237" it="0" lt="237" ct="13" ts="1622436828254" s="true" lb="-72" rc="200" rm="OK" tn="" dt="text" de="" by="494" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:44 GMT
+Etag: &quot;5f46cfe4-5&quot;
+Last-Modified: Wed, 26 Aug 2020 21:11:00 GMT
+Server: ECS (oxr/8373)
+X-Cache: Miss from cloudfront
+Via: 1.1 b29e77b539ee60c59c6b595481ca2fdc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: E_C68L7OaKhmAg0KAfYbGwWNcMbMrYfymmEqIyPA3BRKIWRVYjfclg==
+Age: 77
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 125
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x5;�6	�&#x14;窌�D�-���</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="427" it="0" lt="427" ct="176" ts="1622436829229" s="false" lb="-73" rc="400" rm="Bad Request" tn="" dt="text" de="" by="229" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 31 May 2021 04:53:46 GMT
+Date: Mon, 31 May 2021 04:53:46 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: r3.o.lencr.org
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 135
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;H�ɠ�+�-O��h��g�5���&#x4;&#x14;&#x14;.�&#x17;�XVˮP	@�&#x1f;���&#x14;��&#x2;&#x12;&#x4;*�]^a!�V@���B&#x1a;!�&#x16;</queryString>
+  <java.net.URL>http://r3.o.lencr.org/</java.net.URL>
+</httpSample>
+<httpSample t="351" it="0" lt="350" ct="12" ts="1622436829342" s="true" lb="-74" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:46 GMT
+Etag: &quot;5f4e9b00-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:28 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 2f5b3fa20e9b26698ee5050f9fd19eea.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: nRTAHNajBzrsgSi3_xAWvbd5ooaoE1qou9J5YPZCq4X-fGHzHOAJNA==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 121
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#x4;(&#x4;]�&#x2;p���\ً~1�</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="61" ct="13" ts="1622436829976" s="true" lb="-76" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:46 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="58" ct="13" ts="1622436830028" s="true" lb="-77" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:46 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="473" it="0" lt="473" ct="19" ts="1622436829870" s="true" lb="-75" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:46 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="6160" it="0" lt="0" ct="915" ts="1622436825318" s="false" lb="-62" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: HGJ1AWsgP0N9DMuc9plxHg==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="343" ct="12" ts="1622436831471" s="true" lb="-78" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:48 GMT
+Etag: &quot;5f4e9b00-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:28 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 6745e50de3141775e10d9c11f0d8fe04.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: gJKQqK4hfaXewkI_LoMkaMY_QspXiynV4ru0Vw1WdjabCKOzLugp0g==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 123
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xc;&amp;D�.X�U��?�
+m�I</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="564" it="0" lt="564" ct="12" ts="1622436831720" s="true" lb="-79" rc="200" rm="OK" tn="" dt="text" de="" by="476" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:53:48 GMT
+Etag: &quot;5f4e9b00-5&quot;
+Last-Modified: Tue, 01 Sep 2020 19:03:28 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 c6ad7e7d0a024444ca42438214ae6c72.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-C2
+X-Amz-Cf-Id: AhZ6pLZV8uPiM24ctSnrALbgFPchpBavy7a79AotL17VSYiYY6xqGQ==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.sca1b.amazontrust.com
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 123
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;3���&#x1d;f�&#x5;]&#x3;&#x17;:M&#x1f;&gt;&#x18;q8�&#xd;&#x4;&#x14;Y�f&#x6;R�{��&lt;��&#x7;&apos;�t[�=�&#x2;&#x10;&#xc;&amp;D�.X�U��?�
+m�I</queryString>
+  <java.net.URL>http://ocsp.sca1b.amazontrust.com/</java.net.URL>
+</httpSample>
+<httpSample t="5991" it="0" lt="0" ct="745" ts="1622436836497" s="false" lb="-80" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: VLwO9BZUOnNUe/MF+X9BCQ==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="219" ct="12" ts="1622436852074" s="true" lb="-81" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 04:54:08 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;G�D&#x3;E͙P&#x5;&#x0;&#x0;&#x0;&#x0;��J</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+
+<httpSample t="6020" it="0" lt="0" ct="776" ts="1622437172831" s="false" lb="-86" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: 21PFblicgwfVqHf+1KJEmg==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="5962" it="0" lt="0" ct="721" ts="1622437198875" s="false" lb="-87" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: dIVSIXkd2VcmZBd5IYnJ5w==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="590" it="0" lt="590" ct="143" ts="1622437219155" s="true" lb="-91" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 05:00:16 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;G�D&#x3;E͙P&#x5;&#x0;&#x0;&#x0;&#x0;��J</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+
+
+
+
+<httpSample t="127" it="0" lt="127" ct="82" ts="1622437514998" s="true" lb="-92" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 05:05:11 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+
+
+
+<httpSample t="344" it="0" lt="343" ct="75" ts="1622437685644" s="false" lb="-93" rc="400" rm="Bad Request" tn="" dt="text" de="" by="229" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 31 May 2021 05:08:02 GMT
+Date: Mon, 31 May 2021 05:08:02 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: r3.o.lencr.org
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 135
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;H�ɠ�+�-O��h��g�5���&#x4;&#x14;&#x14;.�&#x17;�XVˮP	@�&#x1f;���&#x14;��&#x2;&#x12;&#x4;*�]^a!�V@���B&#x1a;!�&#x16;</queryString>
+  <java.net.URL>http://r3.o.lencr.org/</java.net.URL>
+</httpSample>
+
+
+<httpSample t="452" it="0" lt="452" ct="143" ts="1622437860106" s="true" lb="-94" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 05:10:57 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+
+<httpSample t="394" it="0" lt="394" ct="126" ts="1622437926628" s="false" lb="-99" rc="400" rm="Bad Request" tn="" dt="text" de="" by="229" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 31 May 2021 05:12:03 GMT
+Date: Mon, 31 May 2021 05:12:03 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: r3.o.lencr.org
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 135
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;H�ɠ�+�-O��h��g�5���&#x4;&#x14;&#x14;.�&#x17;�XVˮP	@�&#x1f;���&#x14;��&#x2;&#x12;&#x4;*�]^a!�V@���B&#x1a;!�&#x16;</queryString>
+  <java.net.URL>http://r3.o.lencr.org/</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="60" ct="15" ts="1622437927238" s="true" lb="-100" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 05:12:03 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;&#xe;�n�&#xb;��
+&#x3;&#x0;&#x0;&#x0;&#x0;�&#xe;�</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="59" ct="13" ts="1622437927605" s="true" lb="-101" rc="200" rm="OK" tn="" dt="text" de="" by="250" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 31 May 2021 05:12:04 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.pki.goog
+Content-Type: application/ocsp-request
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Content-Length: 124
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;BF0�&apos;&#x19;��p���s�_f8&#x17;�&#x4;&#x14;���n&#x10;�ϛ�`�&#x18;�&#x1b;��}	�+&#x2;&#x10;G�D&#x3;E͙P&#x5;&#x0;&#x0;&#x0;&#x0;��J</queryString>
+  <java.net.URL>http://ocsp.pki.goog/gts1o1core</java.net.URL>
+</httpSample>
+<httpSample t="5983" it="0" lt="0" ct="750" ts="1622437925142" s="false" lb="-98" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: 5VIweXSJwtv4m7JWYxESog==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+
+
+
+<httpSample t="6919" it="0" lt="0" ct="1683" ts="1622438239879" s="false" lb="-102" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: push.services.mozilla.com:443 failed to respond" tn="" dt="text" de="" by="1708" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-ARUHMQQE">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-WebSocket-Protocol: push-notification
+Accept-Language: en-US,en;q=0.5
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: le9IKV2Z3XY8IO/0eLNd2w==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+</requestHeader>
+  <responseData class="java.lang.String">org.apache.http.NoHttpResponseException: push.services.mozilla.com:443 failed to respond&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)&#xd;
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)&#xd;
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)&#xd;
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)&#xd;
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:935)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:646)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1296)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:245)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+
+</testResults>
